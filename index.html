@@ -1,0 +1,117 @@
+<html>
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="mastermind.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>Mastermind</title>
+    <script type="text/javascript">
+        function farbe() {
+            // Hintergrundfarben der Felder setzen.
+            document.getElementById('farbe1').style.color =
+                document.getElementById('farbe1').style.backgroundColor =
+                document.getElementById('farbe1').value;
+            document.getElementById('farbe2').style.color =
+                document.getElementById('farbe2').style.backgroundColor =
+                document.getElementById('farbe2').value;
+            document.getElementById('farbe3').style.color =
+                document.getElementById('farbe3').style.backgroundColor =
+                document.getElementById('farbe3').value;
+            document.getElementById('farbe4').style.color =
+                document.getElementById('farbe4').style.backgroundColor =
+                document.getElementById('farbe4').value;
+        }
+    </script>
+    <style type="text/css">
+        .white {
+            color: white;
+            background-color: white
+        }
+        
+        .red {
+            color: red;
+            background-color: red
+        }
+        
+        .blue {
+            color: blue;
+            background-color: blue
+        }
+        
+        .yellow {
+            color: yellow;
+            background-color: yellow
+        }
+        
+        .green {
+            color: green;
+            background-color: green
+        }
+        
+        td.f {
+            width: 15px;
+            height: 15px
+        }
+        
+        .playerInfo {
+            padding-bottom: 15px;
+        }
+    </style>
+</head>
+
+<body onload="farbe();">
+    <div class="playerInfo">
+        <label for="playerName">Player name: </label>
+        <input type="text" name="playerName" id="playerName">
+    </div>
+    <div class="buttons">
+        <button type="button" class="resetButton btn btn-secondary">Erneut starten</button>
+        <a href="/highscoreboard" class="btn btn-primary highscoreboard">Highscore Board</a>
+    </div>
+    <table id="colorTable" style="display:none">
+        <tr>
+            <td>
+                <select class="color" id="farbe1" onchange="farbe();">
+                    <option class="white" value="white"></option>
+                    <option class="red" value="red">rot</option>
+                    <option class="blue" value="blue">blau</option>
+                    <option class="yellow" value="yellow">gelb</option>
+                    <option class="green" value="green">gr&uuml;n</option>
+                </select>
+            </td>
+            <td>
+                <select class="color" id="farbe2" onchange="farbe();">
+                    <option class="white" value="white"></option>
+                    <option class="red" value="red">rot</option>
+                    <option class="blue" value="blue">blau</option>
+                    <option class="yellow" value="yellow">gelb</option>
+                    <option class="green" value="green">gr&uuml;n</option>
+                </select>
+            </td>
+            <td>
+                <select class="color" id="farbe3" onchange="farbe();">
+                    <option class="white" value="white"></option>
+                    <option class="red" value="red">rot</option>
+                    <option class="blue" value="blue">blau</option>
+                    <option class="yellow" value="yellow">gelb</option>
+                    <option class="green" value="green">gr&uuml;n</option>
+                </select>
+            </td>
+            <td>
+                <select class="color" id="farbe4" onchange="farbe();">
+                    <option class="white" value="white"></option>
+                    <option class="red" value="red">rot</option>
+                    <option class="blue" value="blue">blau</option>
+                    <option class="yellow" value="yellow">gelb</option>
+                    <option class="green" value="green">gr&uuml;n</option>
+                </select>
+            </td>
+            <td>
+                <button id="generateButton" onclick="">Neue Farben</button>
+            </td>
+        </tr>
+    </table>
+    <p id="ergebnis" style="font-weight: bold"></p>
+</body>
+
+</html>
