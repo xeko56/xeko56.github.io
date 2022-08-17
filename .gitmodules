@@ -1,3 +1,3 @@
 [submodule "Sudoku"] 
   path = Sudoku 
-  url = https://github.com/xeko56/xeko56.github.io.git
+  url = git@gitlab.cs.hs-rm.de:funktionale-programmierung-2022/sudoku.git
