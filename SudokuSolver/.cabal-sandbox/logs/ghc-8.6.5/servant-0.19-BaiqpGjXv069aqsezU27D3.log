@@ -1,0 +1,217 @@
+cabal: Entering directory '/tmp/cabal-tmp-2282/servant-0.19'
+Configuring servant-0.19...
+Preprocessing library for servant-0.19..
+Building library for servant-0.19..
+[ 1 of 33] Compiling Servant.API.Alternative ( src/Servant/API/Alternative.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Alternative.o )
+[ 2 of 33] Compiling Servant.API.BasicAuth ( src/Servant/API/BasicAuth.hs, dist/dist-sandbox-54b365cc/build/Servant/API/BasicAuth.o )
+[ 3 of 33] Compiling Servant.API.Capture ( src/Servant/API/Capture.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Capture.o )
+[ 4 of 33] Compiling Servant.API.ContentTypes ( src/Servant/API/ContentTypes.hs, dist/dist-sandbox-54b365cc/build/Servant/API/ContentTypes.o )
+[ 5 of 33] Compiling Servant.API.Description ( src/Servant/API/Description.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Description.o )
+[ 6 of 33] Compiling Servant.API.Empty ( src/Servant/API/Empty.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Empty.o )
+[ 7 of 33] Compiling Servant.API.Experimental.Auth ( src/Servant/API/Experimental/Auth.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Experimental/Auth.o )
+[ 8 of 33] Compiling Servant.API.Fragment ( src/Servant/API/Fragment.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Fragment.o )
+[ 9 of 33] Compiling Servant.API.Generic ( src/Servant/API/Generic.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Generic.o )
+[10 of 33] Compiling Servant.API.HttpVersion ( src/Servant/API/HttpVersion.hs, dist/dist-sandbox-54b365cc/build/Servant/API/HttpVersion.o )
+[11 of 33] Compiling Servant.API.IsSecure ( src/Servant/API/IsSecure.hs, dist/dist-sandbox-54b365cc/build/Servant/API/IsSecure.o )
+[12 of 33] Compiling Servant.API.Modifiers ( src/Servant/API/Modifiers.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Modifiers.o )
+[13 of 33] Compiling Servant.API.Header ( src/Servant/API/Header.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Header.o )
+[14 of 33] Compiling Servant.API.NamedRoutes ( src/Servant/API/NamedRoutes.hs, dist/dist-sandbox-54b365cc/build/Servant/API/NamedRoutes.o )
+[15 of 33] Compiling Servant.API.QueryParam ( src/Servant/API/QueryParam.hs, dist/dist-sandbox-54b365cc/build/Servant/API/QueryParam.o )
+[16 of 33] Compiling Servant.API.Raw  ( src/Servant/API/Raw.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Raw.o )
+[17 of 33] Compiling Servant.API.RemoteHost ( src/Servant/API/RemoteHost.hs, dist/dist-sandbox-54b365cc/build/Servant/API/RemoteHost.o )
+[18 of 33] Compiling Servant.API.ReqBody ( src/Servant/API/ReqBody.hs, dist/dist-sandbox-54b365cc/build/Servant/API/ReqBody.o )
+[19 of 33] Compiling Servant.API.ResponseHeaders ( src/Servant/API/ResponseHeaders.hs, dist/dist-sandbox-54b365cc/build/Servant/API/ResponseHeaders.o )
+[20 of 33] Compiling Servant.API.Status ( src/Servant/API/Status.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Status.o )
+[21 of 33] Compiling Servant.API.Sub  ( src/Servant/API/Sub.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Sub.o )
+[22 of 33] Compiling Servant.API.TypeErrors ( src/Servant/API/TypeErrors.hs, dist/dist-sandbox-54b365cc/build/Servant/API/TypeErrors.o )
+
+src/Servant/API/TypeErrors.hs:17:1: warning: [-Wunused-imports]
+    The import of ‘Data.Kind’ is redundant
+      except perhaps to import instances from ‘Data.Kind’
+    To import instances alone, use: import Data.Kind()
+   |
+17 | import Data.Kind
+   | ^^^^^^^^^^^^^^^^
+
+src/Servant/API/TypeErrors.hs:23:3: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘Text’.
+    Use ‘'Text’ instead of ‘Text’.
+   |
+23 |   Text "There is no instance for " :<>: ShowType tycls
+   |   ^^^^
+
+src/Servant/API/TypeErrors.hs:23:36: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘:<>:’.
+    Use ‘':<>:’ instead of ‘:<>:’.
+   |
+23 |   Text "There is no instance for " :<>: ShowType tycls
+   |                                    ^^^^
+
+src/Servant/API/TypeErrors.hs:23:41: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘ShowType’.
+    Use ‘'ShowType’ instead of ‘ShowType’.
+   |
+23 |   Text "There is no instance for " :<>: ShowType tycls
+   |                                         ^^^^^^^^
+
+src/Servant/API/TypeErrors.hs:24:3: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘:<>:’.
+    Use ‘':<>:’ instead of ‘:<>:’.
+   |
+24 |   :<>: Text " (" :<>: ShowType expr :<>: Text " :> ...)"
+   |   ^^^^
+
+src/Servant/API/TypeErrors.hs:24:8: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘Text’.
+    Use ‘'Text’ instead of ‘Text’.
+   |
+24 |   :<>: Text " (" :<>: ShowType expr :<>: Text " :> ...)"
+   |        ^^^^
+
+src/Servant/API/TypeErrors.hs:24:18: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘:<>:’.
+    Use ‘':<>:’ instead of ‘:<>:’.
+   |
+24 |   :<>: Text " (" :<>: ShowType expr :<>: Text " :> ...)"
+   |                  ^^^^
+
+src/Servant/API/TypeErrors.hs:24:23: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘ShowType’.
+    Use ‘'ShowType’ instead of ‘ShowType’.
+   |
+24 |   :<>: Text " (" :<>: ShowType expr :<>: Text " :> ...)"
+   |                       ^^^^^^^^
+
+src/Servant/API/TypeErrors.hs:24:37: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘:<>:’.
+    Use ‘':<>:’ instead of ‘:<>:’.
+   |
+24 |   :<>: Text " (" :<>: ShowType expr :<>: Text " :> ...)"
+   |                                     ^^^^
+
+src/Servant/API/TypeErrors.hs:24:42: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘Text’.
+    Use ‘'Text’ instead of ‘Text’.
+   |
+24 |   :<>: Text " (" :<>: ShowType expr :<>: Text " :> ...)"
+   |                                          ^^^^
+
+src/Servant/API/TypeErrors.hs:28:3: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘Text’.
+    Use ‘'Text’ instead of ‘Text’.
+   |
+28 |   Text "There is no instance for " :<>: ShowType expr
+   |   ^^^^
+
+src/Servant/API/TypeErrors.hs:28:36: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘:<>:’.
+    Use ‘':<>:’ instead of ‘:<>:’.
+   |
+28 |   Text "There is no instance for " :<>: ShowType expr
+   |                                    ^^^^
+
+src/Servant/API/TypeErrors.hs:28:41: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘ShowType’.
+    Use ‘'ShowType’ instead of ‘ShowType’.
+   |
+28 |   Text "There is no instance for " :<>: ShowType expr
+   |                                         ^^^^^^^^
+
+src/Servant/API/TypeErrors.hs:33:3: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘:$$:’.
+    Use ‘':$$:’ instead of ‘:$$:’.
+   |
+33 |   :$$: ShowType expr :<>: Text " expects " :<>: ShowType (Arity expr) :<>: Text " more arguments"
+   |   ^^^^
+
+src/Servant/API/TypeErrors.hs:33:8: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘ShowType’.
+    Use ‘'ShowType’ instead of ‘ShowType’.
+   |
+33 |   :$$: ShowType expr :<>: Text " expects " :<>: ShowType (Arity expr) :<>: Text " more arguments"
+   |        ^^^^^^^^
+
+src/Servant/API/TypeErrors.hs:33:22: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘:<>:’.
+    Use ‘':<>:’ instead of ‘:<>:’.
+   |
+33 |   :$$: ShowType expr :<>: Text " expects " :<>: ShowType (Arity expr) :<>: Text " more arguments"
+   |                      ^^^^
+
+src/Servant/API/TypeErrors.hs:33:27: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘Text’.
+    Use ‘'Text’ instead of ‘Text’.
+   |
+33 |   :$$: ShowType expr :<>: Text " expects " :<>: ShowType (Arity expr) :<>: Text " more arguments"
+   |                           ^^^^
+
+src/Servant/API/TypeErrors.hs:33:44: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘:<>:’.
+    Use ‘':<>:’ instead of ‘:<>:’.
+   |
+33 |   :$$: ShowType expr :<>: Text " expects " :<>: ShowType (Arity expr) :<>: Text " more arguments"
+   |                                            ^^^^
+
+src/Servant/API/TypeErrors.hs:33:49: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘ShowType’.
+    Use ‘'ShowType’ instead of ‘ShowType’.
+   |
+33 |   :$$: ShowType expr :<>: Text " expects " :<>: ShowType (Arity expr) :<>: Text " more arguments"
+   |                                                 ^^^^^^^^
+
+src/Servant/API/TypeErrors.hs:33:71: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘:<>:’.
+    Use ‘':<>:’ instead of ‘:<>:’.
+   |
+33 |   :$$: ShowType expr :<>: Text " expects " :<>: ShowType (Arity expr) :<>: Text " more arguments"
+   |                                                                       ^^^^
+
+src/Servant/API/TypeErrors.hs:33:76: warning: [-Wunticked-promoted-constructors]
+    Unticked promoted constructor: ‘Text’.
+    Use ‘'Text’ instead of ‘Text’.
+   |
+33 |   :$$: ShowType expr :<>: Text " expects " :<>: ShowType (Arity expr) :<>: Text " more arguments"
+   |                                                                            ^^^^
+[23 of 33] Compiling Servant.API.UVerb.Union ( src/Servant/API/UVerb/Union.hs, dist/dist-sandbox-54b365cc/build/Servant/API/UVerb/Union.o )
+[24 of 33] Compiling Servant.API.UVerb ( src/Servant/API/UVerb.hs, dist/dist-sandbox-54b365cc/build/Servant/API/UVerb.o )
+[25 of 33] Compiling Servant.API.Vault ( src/Servant/API/Vault.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Vault.o )
+[26 of 33] Compiling Servant.API.Verbs ( src/Servant/API/Verbs.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Verbs.o )
+[27 of 33] Compiling Servant.API.TypeLevel ( src/Servant/API/TypeLevel.hs, dist/dist-sandbox-54b365cc/build/Servant/API/TypeLevel.o )
+[28 of 33] Compiling Servant.API.WithNamedContext ( src/Servant/API/WithNamedContext.hs, dist/dist-sandbox-54b365cc/build/Servant/API/WithNamedContext.o )
+[29 of 33] Compiling Servant.Types.SourceT ( src/Servant/Types/SourceT.hs, dist/dist-sandbox-54b365cc/build/Servant/Types/SourceT.o )
+[30 of 33] Compiling Servant.API.Stream ( src/Servant/API/Stream.hs, dist/dist-sandbox-54b365cc/build/Servant/API/Stream.o )
+[31 of 33] Compiling Servant.Links    ( src/Servant/Links.hs, dist/dist-sandbox-54b365cc/build/Servant/Links.o )
+
+src/Servant/Links.hs:656:1: warning: [-Wmissing-methods]
+    • No explicit associated type or default declaration for ‘MkLink’
+    • In the instance declaration for ‘HasLink (ty :> sub)’
+    |
+656 | instance {-# OVERLAPPABLE #-} TypeError (NoInstanceForSub HasLink ty) => HasLink (ty :> sub)
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+src/Servant/Links.hs:656:31: warning: [-Wmissing-methods]
+    • No explicit implementation for
+        ‘toLink’
+    • In the instance declaration for ‘HasLink (ty :> sub)’
+    |
+656 | instance {-# OVERLAPPABLE #-} TypeError (NoInstanceForSub HasLink ty) => HasLink (ty :> sub)
+    |                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+src/Servant/Links.hs:658:1: warning: [-Wmissing-methods]
+    • No explicit associated type or default declaration for ‘MkLink’
+    • In the instance declaration for ‘HasLink api’
+    |
+658 | instance {-# OVERLAPPABLE #-} TypeError (NoInstanceFor (HasLink api)) => HasLink api
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+src/Servant/Links.hs:658:31: warning: [-Wmissing-methods]
+    • No explicit implementation for
+        ‘toLink’
+    • In the instance declaration for ‘HasLink api’
+    |
+658 | instance {-# OVERLAPPABLE #-} TypeError (NoInstanceFor (HasLink api)) => HasLink api
+    |                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[32 of 33] Compiling Servant.API      ( src/Servant/API.hs, dist/dist-sandbox-54b365cc/build/Servant/API.o )
+[33 of 33] Compiling Servant.Test.ComprehensiveAPI ( src/Servant/Test/ComprehensiveAPI.hs, dist/dist-sandbox-54b365cc/build/Servant/Test/ComprehensiveAPI.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/servant-0.19-BaiqpGjXv069aqsezU27D3
+cabal: Leaving directory '/tmp/cabal-tmp-2282/servant-0.19'

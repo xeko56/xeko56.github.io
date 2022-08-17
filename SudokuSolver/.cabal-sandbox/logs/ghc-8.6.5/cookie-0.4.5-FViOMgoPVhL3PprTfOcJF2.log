@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-2287/cookie-0.4.5'
+Configuring cookie-0.4.5...
+Preprocessing library for cookie-0.4.5..
+Building library for cookie-0.4.5..
+[1 of 1] Compiling Web.Cookie       ( Web/Cookie.hs, dist/dist-sandbox-54b365cc/build/Web/Cookie.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/cookie-0.4.5-FViOMgoPVhL3PprTfOcJF2
+cabal: Leaving directory '/tmp/cabal-tmp-2287/cookie-0.4.5'

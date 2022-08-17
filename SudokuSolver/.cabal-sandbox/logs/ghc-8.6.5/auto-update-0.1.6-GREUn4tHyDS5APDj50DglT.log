@@ -1,0 +1,11 @@
+cabal: Entering directory '/tmp/cabal-tmp-532/auto-update-0.1.6'
+Configuring auto-update-0.1.6...
+Preprocessing library for auto-update-0.1.6..
+Building library for auto-update-0.1.6..
+[1 of 5] Compiling Control.AutoUpdate ( Control/AutoUpdate.hs, dist/dist-sandbox-54b365cc/build/Control/AutoUpdate.o )
+[2 of 5] Compiling Control.AutoUpdate.Util ( Control/AutoUpdate/Util.hs, dist/dist-sandbox-54b365cc/build/Control/AutoUpdate/Util.o )
+[3 of 5] Compiling Control.Debounce.Internal ( Control/Debounce/Internal.hs, dist/dist-sandbox-54b365cc/build/Control/Debounce/Internal.o )
+[4 of 5] Compiling Control.Debounce ( Control/Debounce.hs, dist/dist-sandbox-54b365cc/build/Control/Debounce.o )
+[5 of 5] Compiling Control.Reaper   ( Control/Reaper.hs, dist/dist-sandbox-54b365cc/build/Control/Reaper.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/auto-update-0.1.6-GREUn4tHyDS5APDj50DglT
+cabal: Leaving directory '/tmp/cabal-tmp-532/auto-update-0.1.6'

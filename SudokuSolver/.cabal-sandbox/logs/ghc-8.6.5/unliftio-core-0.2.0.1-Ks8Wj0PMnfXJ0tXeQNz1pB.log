@@ -1,0 +1,8 @@
+cabal: Entering directory '/tmp/cabal-tmp-531/unliftio-core-0.2.0.1'
+Configuring unliftio-core-0.2.0.1...
+Preprocessing library for unliftio-core-0.2.0.1..
+Building library for unliftio-core-0.2.0.1..
+[1 of 2] Compiling Control.Monad.IO.Unlift ( src/Control/Monad/IO/Unlift.hs, dist/dist-sandbox-54b365cc/build/Control/Monad/IO/Unlift.o )
+[2 of 2] Compiling Paths_unliftio_core ( dist/dist-sandbox-54b365cc/build/autogen/Paths_unliftio_core.hs, dist/dist-sandbox-54b365cc/build/Paths_unliftio_core.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/unliftio-core-0.2.0.1-Ks8Wj0PMnfXJ0tXeQNz1pB
+cabal: Leaving directory '/tmp/cabal-tmp-531/unliftio-core-0.2.0.1'

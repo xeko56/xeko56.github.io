@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-2286/th-compat-0.1.4'
+Configuring th-compat-0.1.4...
+Preprocessing library for th-compat-0.1.4..
+Building library for th-compat-0.1.4..
+[1 of 1] Compiling Language.Haskell.TH.Syntax.Compat ( src/Language/Haskell/TH/Syntax/Compat.hs, dist/dist-sandbox-54b365cc/build/Language/Haskell/TH/Syntax/Compat.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/th-compat-0.1.4-Fe0A8gWrSfkC52saL8tfJp
+cabal: Leaving directory '/tmp/cabal-tmp-2286/th-compat-0.1.4'

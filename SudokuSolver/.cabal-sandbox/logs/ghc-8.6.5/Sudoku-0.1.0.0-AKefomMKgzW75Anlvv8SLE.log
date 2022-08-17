@@ -1,0 +1,8 @@
+cabal: Entering directory '.'
+Configuring Sudoku-0.1.0.0...
+Preprocessing executable 'Sudoku' for Sudoku-0.1.0.0..
+Building executable 'Sudoku' for Sudoku-0.1.0.0..
+[1 of 2] Compiling Sudoku           ( Sudoku.lhs, dist/dist-sandbox-54b365cc/build/Sudoku/Sudoku-tmp/Sudoku.o )
+Linking dist/dist-sandbox-54b365cc/build/Sudoku/Sudoku ...
+Installing executable Sudoku in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/bin
+cabal: Leaving directory '.'

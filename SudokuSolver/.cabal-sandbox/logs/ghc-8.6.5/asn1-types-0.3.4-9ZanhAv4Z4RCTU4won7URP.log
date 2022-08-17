@@ -1,0 +1,12 @@
+cabal: Entering directory '/tmp/cabal-tmp-533/asn1-types-0.3.4'
+Configuring asn1-types-0.3.4...
+Preprocessing library for asn1-types-0.3.4..
+Building library for asn1-types-0.3.4..
+[1 of 6] Compiling Data.ASN1.BitArray ( Data/ASN1/BitArray.hs, dist/dist-sandbox-54b365cc/build/Data/ASN1/BitArray.o )
+[2 of 6] Compiling Data.ASN1.OID    ( Data/ASN1/OID.hs, dist/dist-sandbox-54b365cc/build/Data/ASN1/OID.o )
+[3 of 6] Compiling Data.ASN1.Types.Lowlevel ( Data/ASN1/Types/Lowlevel.hs, dist/dist-sandbox-54b365cc/build/Data/ASN1/Types/Lowlevel.o )
+[4 of 6] Compiling Data.ASN1.Types.String ( Data/ASN1/Types/String.hs, dist/dist-sandbox-54b365cc/build/Data/ASN1/Types/String.o )
+[5 of 6] Compiling Data.ASN1.Types  ( Data/ASN1/Types.hs, dist/dist-sandbox-54b365cc/build/Data/ASN1/Types.o )
+[6 of 6] Compiling Data.ASN1.Pretty ( Data/ASN1/Pretty.hs, dist/dist-sandbox-54b365cc/build/Data/ASN1/Pretty.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/asn1-types-0.3.4-9ZanhAv4Z4RCTU4won7URP
+cabal: Leaving directory '/tmp/cabal-tmp-533/asn1-types-0.3.4'

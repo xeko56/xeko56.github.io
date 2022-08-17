@@ -1,0 +1,14 @@
+cabal: Entering directory '/tmp/cabal-tmp-533/unix-compat-0.6'
+Configuring unix-compat-0.6...
+Preprocessing library for unix-compat-0.6..
+Building library for unix-compat-0.6..
+[1 of 8] Compiling System.PosixCompat.Files ( dist/dist-sandbox-54b365cc/build/System/PosixCompat/Files.hs, dist/dist-sandbox-54b365cc/build/System/PosixCompat/Files.o )
+[2 of 8] Compiling System.PosixCompat.Temp ( src/System/PosixCompat/Temp.hs, dist/dist-sandbox-54b365cc/build/System/PosixCompat/Temp.o )
+[3 of 8] Compiling System.PosixCompat.Time ( src/System/PosixCompat/Time.hs, dist/dist-sandbox-54b365cc/build/System/PosixCompat/Time.o )
+[4 of 8] Compiling System.PosixCompat.Types ( src/System/PosixCompat/Types.hs, dist/dist-sandbox-54b365cc/build/System/PosixCompat/Types.o )
+[5 of 8] Compiling System.PosixCompat.Extensions ( dist/dist-sandbox-54b365cc/build/System/PosixCompat/Extensions.hs, dist/dist-sandbox-54b365cc/build/System/PosixCompat/Extensions.o )
+[6 of 8] Compiling System.PosixCompat.Unistd ( src/System/PosixCompat/Unistd.hs, dist/dist-sandbox-54b365cc/build/System/PosixCompat/Unistd.o )
+[7 of 8] Compiling System.PosixCompat.User ( dist/dist-sandbox-54b365cc/build/System/PosixCompat/User.hs, dist/dist-sandbox-54b365cc/build/System/PosixCompat/User.o )
+[8 of 8] Compiling System.PosixCompat ( src/System/PosixCompat.hs, dist/dist-sandbox-54b365cc/build/System/PosixCompat.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/unix-compat-0.6-DsZOczkYwBC8eXogTONDW9
+cabal: Leaving directory '/tmp/cabal-tmp-533/unix-compat-0.6'

@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-531/async-2.2.4'
+Configuring async-2.2.4...
+Preprocessing library for async-2.2.4..
+Building library for async-2.2.4..
+[1 of 1] Compiling Control.Concurrent.Async ( Control/Concurrent/Async.hs, dist/dist-sandbox-54b365cc/build/Control/Concurrent/Async.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/async-2.2.4-CJwYGeYVRDT9eMIFwbj4es
+cabal: Leaving directory '/tmp/cabal-tmp-531/async-2.2.4'

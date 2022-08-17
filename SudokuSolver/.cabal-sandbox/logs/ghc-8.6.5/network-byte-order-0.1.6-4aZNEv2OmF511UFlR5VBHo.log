@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-535/network-byte-order-0.1.6'
+Configuring network-byte-order-0.1.6...
+Preprocessing library for network-byte-order-0.1.6..
+Building library for network-byte-order-0.1.6..
+[1 of 1] Compiling Network.ByteOrder ( Network/ByteOrder.hs, dist/dist-sandbox-54b365cc/build/Network/ByteOrder.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/network-byte-order-0.1.6-4aZNEv2OmF511UFlR5VBHo
+cabal: Leaving directory '/tmp/cabal-tmp-535/network-byte-order-0.1.6'

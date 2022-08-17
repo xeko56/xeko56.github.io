@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-538/time-manager-0.0.0'
+Configuring time-manager-0.0.0...
+Preprocessing library for time-manager-0.0.0..
+Building library for time-manager-0.0.0..
+[1 of 1] Compiling System.TimeManager ( System/TimeManager.hs, dist/dist-sandbox-54b365cc/build/System/TimeManager.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/time-manager-0.0.0-13VNl63DGne4Q77KbSs6r9
+cabal: Leaving directory '/tmp/cabal-tmp-538/time-manager-0.0.0'

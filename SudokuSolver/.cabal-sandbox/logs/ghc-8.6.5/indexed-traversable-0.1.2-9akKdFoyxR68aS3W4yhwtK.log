@@ -1,0 +1,11 @@
+cabal: Entering directory '/tmp/cabal-tmp-2288/indexed-traversable-0.1.2'
+Configuring indexed-traversable-0.1.2...
+Preprocessing library for indexed-traversable-0.1.2..
+Building library for indexed-traversable-0.1.2..
+[1 of 5] Compiling GhcExts          ( src/GhcExts.hs, dist/dist-sandbox-54b365cc/build/GhcExts.o )
+[2 of 5] Compiling WithIndex        ( src/WithIndex.hs, dist/dist-sandbox-54b365cc/build/WithIndex.o )
+[3 of 5] Compiling Data.Traversable.WithIndex ( src/Data/Traversable/WithIndex.hs, dist/dist-sandbox-54b365cc/build/Data/Traversable/WithIndex.o )
+[4 of 5] Compiling Data.Functor.WithIndex ( src/Data/Functor/WithIndex.hs, dist/dist-sandbox-54b365cc/build/Data/Functor/WithIndex.o )
+[5 of 5] Compiling Data.Foldable.WithIndex ( src/Data/Foldable/WithIndex.hs, dist/dist-sandbox-54b365cc/build/Data/Foldable/WithIndex.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/indexed-traversable-0.1.2-9akKdFoyxR68aS3W4yhwtK
+cabal: Leaving directory '/tmp/cabal-tmp-2288/indexed-traversable-0.1.2'

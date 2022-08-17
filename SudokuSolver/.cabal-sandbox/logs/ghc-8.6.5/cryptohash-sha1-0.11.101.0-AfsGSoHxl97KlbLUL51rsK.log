@@ -1,0 +1,9 @@
+cabal: Entering directory '/tmp/cabal-tmp-1284/cryptohash-sha1-0.11.101.0'
+Configuring cryptohash-sha1-0.11.101.0...
+Preprocessing library for cryptohash-sha1-0.11.101.0..
+Building library for cryptohash-sha1-0.11.101.0..
+[1 of 3] Compiling Compat           ( src/Compat.hs, dist/dist-sandbox-54b365cc/build/Compat.o )
+[2 of 3] Compiling Crypto.Hash.SHA1.FFI ( src/Crypto/Hash/SHA1/FFI.hs, dist/dist-sandbox-54b365cc/build/Crypto/Hash/SHA1/FFI.o )
+[3 of 3] Compiling Crypto.Hash.SHA1 ( src/Crypto/Hash/SHA1.hs, dist/dist-sandbox-54b365cc/build/Crypto/Hash/SHA1.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/cryptohash-sha1-0.11.101.0-AfsGSoHxl97KlbLUL51rsK
+cabal: Leaving directory '/tmp/cabal-tmp-1284/cryptohash-sha1-0.11.101.0'

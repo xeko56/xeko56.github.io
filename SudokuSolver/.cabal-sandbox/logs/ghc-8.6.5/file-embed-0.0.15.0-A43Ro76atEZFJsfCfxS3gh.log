@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-9795/file-embed-0.0.15.0'
+Configuring file-embed-0.0.15.0...
+Preprocessing library for file-embed-0.0.15.0..
+Building library for file-embed-0.0.15.0..
+[1 of 1] Compiling Data.FileEmbed   ( Data/FileEmbed.hs, dist/dist-sandbox-54b365cc/build/Data/FileEmbed.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/file-embed-0.0.15.0-A43Ro76atEZFJsfCfxS3gh
+cabal: Leaving directory '/tmp/cabal-tmp-9795/file-embed-0.0.15.0'

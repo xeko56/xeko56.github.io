@@ -1,0 +1,31 @@
+cabal: Entering directory '/tmp/cabal-tmp-535/attoparsec-0.14.4'
+Configuring attoparsec-0.14.4...
+Preprocessing library 'attoparsec-internal' for attoparsec-0.14.4..
+Building library 'attoparsec-internal' for attoparsec-0.14.4..
+[1 of 6] Compiling Data.Attoparsec.ByteString.FastSet ( internal/Data/Attoparsec/ByteString/FastSet.hs, dist/dist-sandbox-54b365cc/build/attoparsec-internal/Data/Attoparsec/ByteString/FastSet.o )
+[2 of 6] Compiling Data.Attoparsec.Internal.Compat ( internal/Data/Attoparsec/Internal/Compat.hs, dist/dist-sandbox-54b365cc/build/attoparsec-internal/Data/Attoparsec/Internal/Compat.o )
+[3 of 6] Compiling Data.Attoparsec.Internal.Fhthagn ( internal/Data/Attoparsec/Internal/Fhthagn.hs, dist/dist-sandbox-54b365cc/build/attoparsec-internal/Data/Attoparsec/Internal/Fhthagn.o )
+[4 of 6] Compiling Data.Attoparsec.ByteString.Buffer ( internal/Data/Attoparsec/ByteString/Buffer.hs, dist/dist-sandbox-54b365cc/build/attoparsec-internal/Data/Attoparsec/ByteString/Buffer.o )
+[5 of 6] Compiling Data.Attoparsec.Text.Buffer ( internal/Data/Attoparsec/Text/Buffer.hs, dist/dist-sandbox-54b365cc/build/attoparsec-internal/Data/Attoparsec/Text/Buffer.o )
+[6 of 6] Compiling Data.Attoparsec.Text.FastSet ( internal/Data/Attoparsec/Text/FastSet.hs, dist/dist-sandbox-54b365cc/build/attoparsec-internal/Data/Attoparsec/Text/FastSet.o )
+Preprocessing library for attoparsec-0.14.4..
+Building library for attoparsec-0.14.4..
+[ 1 of 16] Compiling Data.Attoparsec.Internal.Types ( Data/Attoparsec/Internal/Types.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Internal/Types.o )
+[ 2 of 16] Compiling Data.Attoparsec.Internal ( Data/Attoparsec/Internal.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Internal.o )
+[ 3 of 16] Compiling Data.Attoparsec.Number ( Data/Attoparsec/Number.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Number.o )
+[ 4 of 16] Compiling Data.Attoparsec.Types ( Data/Attoparsec/Types.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Types.o )
+[ 5 of 16] Compiling Data.Attoparsec.Zepto ( Data/Attoparsec/Zepto.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Zepto.o )
+[ 6 of 16] Compiling Data.Attoparsec.Combinator ( Data/Attoparsec/Combinator.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Combinator.o )
+[ 7 of 16] Compiling Data.Attoparsec.Text.Internal ( Data/Attoparsec/Text/Internal.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Text/Internal.o )
+[ 8 of 16] Compiling Data.Attoparsec.Text ( Data/Attoparsec/Text.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Text.o )
+[ 9 of 16] Compiling Data.Attoparsec.Text.Lazy ( Data/Attoparsec/Text/Lazy.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Text/Lazy.o )
+[10 of 16] Compiling Data.Attoparsec.ByteString.Internal ( Data/Attoparsec/ByteString/Internal.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/ByteString/Internal.o )
+[11 of 16] Compiling Data.Attoparsec.ByteString ( Data/Attoparsec/ByteString.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/ByteString.o )
+[12 of 16] Compiling Data.Attoparsec.ByteString.Lazy ( Data/Attoparsec/ByteString/Lazy.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/ByteString/Lazy.o )
+[13 of 16] Compiling Data.Attoparsec.Lazy ( Data/Attoparsec/Lazy.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Lazy.o )
+[14 of 16] Compiling Data.Attoparsec.ByteString.Char8 ( Data/Attoparsec/ByteString/Char8.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/ByteString/Char8.o )
+[15 of 16] Compiling Data.Attoparsec.Char8 ( Data/Attoparsec/Char8.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Char8.o )
+[16 of 16] Compiling Data.Attoparsec  ( Data/Attoparsec.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec.o )
+Installing internal library attoparsec-internal in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/attoparsec-0.14.4-GhL4hdJ15VdDriBu1YmDhA
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/attoparsec-0.14.4-GhL4hdJ15VdDriBu1YmDhA
+cabal: Leaving directory '/tmp/cabal-tmp-535/attoparsec-0.14.4'

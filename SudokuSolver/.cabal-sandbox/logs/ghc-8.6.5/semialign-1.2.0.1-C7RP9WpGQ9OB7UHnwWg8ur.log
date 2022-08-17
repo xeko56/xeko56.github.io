@@ -1,0 +1,12 @@
+cabal: Entering directory '/tmp/cabal-tmp-2282/semialign-1.2.0.1'
+Configuring semialign-1.2.0.1...
+Preprocessing library for semialign-1.2.0.1..
+Building library for semialign-1.2.0.1..
+[1 of 6] Compiling Data.Semialign.Internal ( src/Data/Semialign/Internal.hs, dist/dist-sandbox-54b365cc/build/Data/Semialign/Internal.o )
+[2 of 6] Compiling Data.Semialign.Indexed ( src/Data/Semialign/Indexed.hs, dist/dist-sandbox-54b365cc/build/Data/Semialign/Indexed.o )
+[3 of 6] Compiling Data.Semialign   ( src/Data/Semialign.hs, dist/dist-sandbox-54b365cc/build/Data/Semialign.o )
+[4 of 6] Compiling Data.Align       ( src/Data/Align.hs, dist/dist-sandbox-54b365cc/build/Data/Align.o )
+[5 of 6] Compiling Data.Crosswalk   ( src/Data/Crosswalk.hs, dist/dist-sandbox-54b365cc/build/Data/Crosswalk.o )
+[6 of 6] Compiling Data.Zip         ( src/Data/Zip.hs, dist/dist-sandbox-54b365cc/build/Data/Zip.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/semialign-1.2.0.1-C7RP9WpGQ9OB7UHnwWg8ur
+cabal: Leaving directory '/tmp/cabal-tmp-2282/semialign-1.2.0.1'

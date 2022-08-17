@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-2287/data-fix-0.3.2'
+Configuring data-fix-0.3.2...
+Preprocessing library for data-fix-0.3.2..
+Building library for data-fix-0.3.2..
+[1 of 1] Compiling Data.Fix         ( src/Data/Fix.hs, dist/dist-sandbox-54b365cc/build/Data/Fix.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/data-fix-0.3.2-CdLfeNawC8vGbAW8HSq1G8
+cabal: Leaving directory '/tmp/cabal-tmp-2287/data-fix-0.3.2'

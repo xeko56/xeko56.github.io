@@ -1,0 +1,9 @@
+cabal: Entering directory '/tmp/cabal-tmp-1281/base16-bytestring-1.0.2.0'
+Configuring base16-bytestring-1.0.2.0...
+Preprocessing library for base16-bytestring-1.0.2.0..
+Building library for base16-bytestring-1.0.2.0..
+[1 of 3] Compiling Data.ByteString.Base16.Internal ( Data/ByteString/Base16/Internal.hs, dist/dist-sandbox-54b365cc/build/Data/ByteString/Base16/Internal.o )
+[2 of 3] Compiling Data.ByteString.Base16 ( Data/ByteString/Base16.hs, dist/dist-sandbox-54b365cc/build/Data/ByteString/Base16.o )
+[3 of 3] Compiling Data.ByteString.Base16.Lazy ( Data/ByteString/Base16/Lazy.hs, dist/dist-sandbox-54b365cc/build/Data/ByteString/Base16/Lazy.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/base16-bytestring-1.0.2.0-4yyhYDoetbR2CcE0GDPhd2
+cabal: Leaving directory '/tmp/cabal-tmp-1281/base16-bytestring-1.0.2.0'

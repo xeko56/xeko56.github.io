@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-2284/generically-0.1'
+Configuring generically-0.1...
+Preprocessing library for generically-0.1..
+Building library for generically-0.1..
+[1 of 1] Compiling GHC.Generics.Generically ( src/GHC/Generics/Generically.hs, dist/dist-sandbox-54b365cc/build/GHC/Generics/Generically.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/generically-0.1-8PCfV20eXmeB05FdtsYNmu
+cabal: Leaving directory '/tmp/cabal-tmp-2284/generically-0.1'

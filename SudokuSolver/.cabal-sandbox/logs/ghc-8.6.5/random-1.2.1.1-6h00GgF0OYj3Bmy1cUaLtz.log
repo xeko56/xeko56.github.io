@@ -1,0 +1,10 @@
+cabal: Entering directory '/tmp/cabal-tmp-535/random-1.2.1.1'
+Configuring random-1.2.1.1...
+Preprocessing library for random-1.2.1.1..
+Building library for random-1.2.1.1..
+[1 of 4] Compiling System.Random.GFinite ( src/System/Random/GFinite.hs, dist/dist-sandbox-54b365cc/build/System/Random/GFinite.o )
+[2 of 4] Compiling System.Random.Internal ( src/System/Random/Internal.hs, dist/dist-sandbox-54b365cc/build/System/Random/Internal.o )
+[3 of 4] Compiling System.Random    ( src/System/Random.hs, dist/dist-sandbox-54b365cc/build/System/Random.o )
+[4 of 4] Compiling System.Random.Stateful ( src/System/Random/Stateful.hs, dist/dist-sandbox-54b365cc/build/System/Random/Stateful.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/random-1.2.1.1-6h00GgF0OYj3Bmy1cUaLtz
+cabal: Leaving directory '/tmp/cabal-tmp-535/random-1.2.1.1'

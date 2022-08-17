@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-2282/singleton-bool-0.1.6'
+Configuring singleton-bool-0.1.6...
+Preprocessing library for singleton-bool-0.1.6..
+Building library for singleton-bool-0.1.6..
+[1 of 1] Compiling Data.Singletons.Bool ( src/Data/Singletons/Bool.hs, dist/dist-sandbox-54b365cc/build/Data/Singletons/Bool.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/singleton-bool-0.1.6-HzCy1k6co6V7pItJyN5ykd
+cabal: Leaving directory '/tmp/cabal-tmp-2282/singleton-bool-0.1.6'

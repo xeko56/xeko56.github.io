@@ -1,0 +1,9 @@
+cabal: Entering directory '/tmp/cabal-tmp-2282/OneTuple-0.3.1'
+Configuring OneTuple-0.3.1...
+Preprocessing library for OneTuple-0.3.1..
+Building library for OneTuple-0.3.1..
+[1 of 3] Compiling Data.Tuple.Solo  ( src/Data/Tuple/Solo.hs, dist/dist-sandbox-54b365cc/build/Data/Tuple/Solo.o )
+[2 of 3] Compiling Data.Tuple.OneTuple ( src/Data/Tuple/OneTuple.hs, dist/dist-sandbox-54b365cc/build/Data/Tuple/OneTuple.o )
+[3 of 3] Compiling Data.Tuple.Solo.TH ( src/Data/Tuple/Solo/TH.hs, dist/dist-sandbox-54b365cc/build/Data/Tuple/Solo/TH.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/OneTuple-0.3.1-K2rUJtkopj92fEvfp0a161
+cabal: Leaving directory '/tmp/cabal-tmp-2282/OneTuple-0.3.1'

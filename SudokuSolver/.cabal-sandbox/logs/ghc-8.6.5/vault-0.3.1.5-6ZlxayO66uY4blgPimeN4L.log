@@ -1,0 +1,11 @@
+cabal: Entering directory '/tmp/cabal-tmp-532/vault-0.3.1.5'
+Configuring vault-0.3.1.5...
+Preprocessing library for vault-0.3.1.5..
+Building library for vault-0.3.1.5..
+[1 of 5] Compiling Data.Unique.Really ( src/Data/Unique/Really.hs, dist/dist-sandbox-54b365cc/build/Data/Unique/Really.o )
+[2 of 5] Compiling Data.Vault.ST.Lazy ( src/Data/Vault/ST/Lazy.hs, dist/dist-sandbox-54b365cc/build/Data/Vault/ST/Lazy.o )
+[3 of 5] Compiling Data.Vault.Lazy  ( src/Data/Vault/Lazy.hs, dist/dist-sandbox-54b365cc/build/Data/Vault/Lazy.o )
+[4 of 5] Compiling Data.Vault.ST.Strict ( src/Data/Vault/ST/Strict.hs, dist/dist-sandbox-54b365cc/build/Data/Vault/ST/Strict.o )
+[5 of 5] Compiling Data.Vault.Strict ( src/Data/Vault/Strict.hs, dist/dist-sandbox-54b365cc/build/Data/Vault/Strict.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/vault-0.3.1.5-6ZlxayO66uY4blgPimeN4L
+cabal: Leaving directory '/tmp/cabal-tmp-532/vault-0.3.1.5'

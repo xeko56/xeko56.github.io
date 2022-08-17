@@ -1,0 +1,14 @@
+cabal: Entering directory '/tmp/cabal-tmp-2287/sop-core-0.5.0.2'
+Configuring sop-core-0.5.0.2...
+Preprocessing library for sop-core-0.5.0.2..
+Building library for sop-core-0.5.0.2..
+[1 of 8] Compiling Data.SOP.BasicFunctors ( src/Data/SOP/BasicFunctors.hs, dist/dist-sandbox-54b365cc/build/Data/SOP/BasicFunctors.o )
+[2 of 8] Compiling Data.SOP.Constraint ( src/Data/SOP/Constraint.hs, dist/dist-sandbox-54b365cc/build/Data/SOP/Constraint.o )
+[3 of 8] Compiling Data.SOP.Classes ( src/Data/SOP/Classes.hs, dist/dist-sandbox-54b365cc/build/Data/SOP/Classes.o )
+[4 of 8] Compiling Data.SOP.Sing    ( src/Data/SOP/Sing.hs, dist/dist-sandbox-54b365cc/build/Data/SOP/Sing.o )
+[5 of 8] Compiling Data.SOP.NP      ( src/Data/SOP/NP.hs, dist/dist-sandbox-54b365cc/build/Data/SOP/NP.o )
+[6 of 8] Compiling Data.SOP.NS      ( src/Data/SOP/NS.hs, dist/dist-sandbox-54b365cc/build/Data/SOP/NS.o )
+[7 of 8] Compiling Data.SOP.Dict    ( src/Data/SOP/Dict.hs, dist/dist-sandbox-54b365cc/build/Data/SOP/Dict.o )
+[8 of 8] Compiling Data.SOP         ( src/Data/SOP.hs, dist/dist-sandbox-54b365cc/build/Data/SOP.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/sop-core-0.5.0.2-Fh6U7KDBEDjI4mvd3HlLI7
+cabal: Leaving directory '/tmp/cabal-tmp-2287/sop-core-0.5.0.2'

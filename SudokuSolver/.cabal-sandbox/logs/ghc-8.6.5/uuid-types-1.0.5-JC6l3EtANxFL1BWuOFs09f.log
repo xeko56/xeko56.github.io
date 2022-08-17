@@ -1,0 +1,9 @@
+cabal: Entering directory '/tmp/cabal-tmp-2285/uuid-types-1.0.5'
+Configuring uuid-types-1.0.5...
+Preprocessing library for uuid-types-1.0.5..
+Building library for uuid-types-1.0.5..
+[1 of 3] Compiling Data.UUID.Types.Internal.Builder ( src/Data/UUID/Types/Internal/Builder.hs, dist/dist-sandbox-54b365cc/build/Data/UUID/Types/Internal/Builder.o )
+[2 of 3] Compiling Data.UUID.Types.Internal ( src/Data/UUID/Types/Internal.hs, dist/dist-sandbox-54b365cc/build/Data/UUID/Types/Internal.o )
+[3 of 3] Compiling Data.UUID.Types  ( src/Data/UUID/Types.hs, dist/dist-sandbox-54b365cc/build/Data/UUID/Types.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/uuid-types-1.0.5-JC6l3EtANxFL1BWuOFs09f
+cabal: Leaving directory '/tmp/cabal-tmp-2285/uuid-types-1.0.5'

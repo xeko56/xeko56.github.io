@@ -1,0 +1,19 @@
+cabal: Entering directory '/tmp/cabal-tmp-2286/http-media-0.8.0.0'
+Configuring http-media-0.8.0.0...
+Preprocessing library for http-media-0.8.0.0..
+Building library for http-media-0.8.0.0..
+[ 1 of 13] Compiling Network.HTTP.Media.Accept ( src/Network/HTTP/Media/Accept.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/Accept.o )
+[ 2 of 13] Compiling Network.HTTP.Media.RenderHeader ( src/Network/HTTP/Media/RenderHeader.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/RenderHeader.o )
+[ 3 of 13] Compiling Network.HTTP.Media.Quality ( src/Network/HTTP/Media/Quality.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/Quality.o )
+[ 4 of 13] Compiling Network.HTTP.Media.Language.Internal ( src/Network/HTTP/Media/Language/Internal.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/Language/Internal.o )
+[ 5 of 13] Compiling Network.HTTP.Media.Language ( src/Network/HTTP/Media/Language.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/Language.o )
+[ 6 of 13] Compiling Network.HTTP.Media.Utils ( src/Network/HTTP/Media/Utils.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/Utils.o )
+[ 7 of 13] Compiling Network.HTTP.Media.MediaType.Internal ( src/Network/HTTP/Media/MediaType/Internal.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/MediaType/Internal.o )
+[ 8 of 13] Compiling Network.HTTP.Media.MediaType ( src/Network/HTTP/Media/MediaType.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/MediaType.o )
+[ 9 of 13] Compiling Network.HTTP.Media.Encoding.Internal ( src/Network/HTTP/Media/Encoding/Internal.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/Encoding/Internal.o )
+[10 of 13] Compiling Network.HTTP.Media.Encoding ( src/Network/HTTP/Media/Encoding.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/Encoding.o )
+[11 of 13] Compiling Network.HTTP.Media.Charset.Internal ( src/Network/HTTP/Media/Charset/Internal.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/Charset/Internal.o )
+[12 of 13] Compiling Network.HTTP.Media.Charset ( src/Network/HTTP/Media/Charset.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media/Charset.o )
+[13 of 13] Compiling Network.HTTP.Media ( src/Network/HTTP/Media.hs, dist/dist-sandbox-54b365cc/build/Network/HTTP/Media.o )
+Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/http-media-0.8.0.0-5ItjcdwNU3M3WT1JNntl8O
+cabal: Leaving directory '/tmp/cabal-tmp-2286/http-media-0.8.0.0'
