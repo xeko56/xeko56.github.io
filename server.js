@@ -9,7 +9,7 @@ let conn = mariadb.createConnection({
     host: "mariadb1.local.cs.hs-rm.de",
     database: "nnguy001",
     user: "nnguy001",
-    password: "Ti123456##"
+    password: "gosudubej0506##"
 });
 
 conn.connect(function(err) {
