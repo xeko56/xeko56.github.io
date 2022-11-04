@@ -1,5 +1,0 @@
-wai-app-static -any
-servant -any
-wai-middleware-static -any
-utf8-string -any
-blaze-builder -any

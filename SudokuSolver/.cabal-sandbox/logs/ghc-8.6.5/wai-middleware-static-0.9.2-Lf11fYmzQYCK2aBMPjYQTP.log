@@ -1,7 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-1280/wai-middleware-static-0.9.2'
-Configuring wai-middleware-static-0.9.2...
-Preprocessing library for wai-middleware-static-0.9.2..
-Building library for wai-middleware-static-0.9.2..
-[1 of 1] Compiling Network.Wai.Middleware.Static ( Network/Wai/Middleware/Static.hs, dist/dist-sandbox-54b365cc/build/Network/Wai/Middleware/Static.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/wai-middleware-static-0.9.2-Lf11fYmzQYCK2aBMPjYQTP
-cabal: Leaving directory '/tmp/cabal-tmp-1280/wai-middleware-static-0.9.2'

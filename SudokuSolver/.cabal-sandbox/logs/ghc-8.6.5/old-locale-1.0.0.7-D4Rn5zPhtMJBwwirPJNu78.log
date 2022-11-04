@@ -1,7 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-531/old-locale-1.0.0.7'
-Configuring old-locale-1.0.0.7...
-Preprocessing library for old-locale-1.0.0.7..
-Building library for old-locale-1.0.0.7..
-[1 of 1] Compiling System.Locale    ( System/Locale.hs, dist/dist-sandbox-54b365cc/build/System/Locale.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/old-locale-1.0.0.7-D4Rn5zPhtMJBwwirPJNu78
-cabal: Leaving directory '/tmp/cabal-tmp-531/old-locale-1.0.0.7'

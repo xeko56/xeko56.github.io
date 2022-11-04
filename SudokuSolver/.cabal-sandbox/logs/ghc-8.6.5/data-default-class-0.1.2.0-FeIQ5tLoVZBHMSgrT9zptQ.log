@@ -1,7 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-2286/data-default-class-0.1.2.0'
-Configuring data-default-class-0.1.2.0...
-Preprocessing library for data-default-class-0.1.2.0..
-Building library for data-default-class-0.1.2.0..
-[1 of 1] Compiling Data.Default.Class ( Data/Default/Class.hs, dist/dist-sandbox-54b365cc/build/Data/Default/Class.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/data-default-class-0.1.2.0-FeIQ5tLoVZBHMSgrT9zptQ
-cabal: Leaving directory '/tmp/cabal-tmp-2286/data-default-class-0.1.2.0'

@@ -1,8 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-2283/attoparsec-iso8601-1.0.2.1'
-Configuring attoparsec-iso8601-1.0.2.1...
-Preprocessing library for attoparsec-iso8601-1.0.2.1..
-Building library for attoparsec-iso8601-1.0.2.1..
-[1 of 2] Compiling Data.Attoparsec.Time.Internal ( src/Data/Attoparsec/Time/Internal.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Time/Internal.o )
-[2 of 2] Compiling Data.Attoparsec.Time ( src/Data/Attoparsec/Time.hs, dist/dist-sandbox-54b365cc/build/Data/Attoparsec/Time.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/attoparsec-iso8601-1.0.2.1-1FLDrDWQuhOEi8J24VKn3t
-cabal: Leaving directory '/tmp/cabal-tmp-2283/attoparsec-iso8601-1.0.2.1'

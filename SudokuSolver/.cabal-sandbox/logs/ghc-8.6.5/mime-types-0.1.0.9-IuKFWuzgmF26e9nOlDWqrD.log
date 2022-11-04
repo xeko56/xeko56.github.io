@@ -1,7 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-1283/mime-types-0.1.0.9'
-Configuring mime-types-0.1.0.9...
-Preprocessing library for mime-types-0.1.0.9..
-Building library for mime-types-0.1.0.9..
-[1 of 1] Compiling Network.Mime     ( Network/Mime.hs, dist/dist-sandbox-54b365cc/build/Network/Mime.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/mime-types-0.1.0.9-IuKFWuzgmF26e9nOlDWqrD
-cabal: Leaving directory '/tmp/cabal-tmp-1283/mime-types-0.1.0.9'

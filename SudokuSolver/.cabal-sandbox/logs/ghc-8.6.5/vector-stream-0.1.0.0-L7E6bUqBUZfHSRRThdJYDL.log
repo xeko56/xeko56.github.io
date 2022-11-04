@@ -1,7 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-2286/vector-stream-0.1.0.0'
-Configuring vector-stream-0.1.0.0...
-Preprocessing library for vector-stream-0.1.0.0..
-Building library for vector-stream-0.1.0.0..
-[1 of 1] Compiling Data.Stream.Monadic ( src/Data/Stream/Monadic.hs, dist/dist-sandbox-54b365cc/build/Data/Stream/Monadic.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/vector-stream-0.1.0.0-L7E6bUqBUZfHSRRThdJYDL
-cabal: Leaving directory '/tmp/cabal-tmp-2286/vector-stream-0.1.0.0'

@@ -1,8 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-2283/witherable-0.4.2'
-Configuring witherable-0.4.2...
-Preprocessing library for witherable-0.4.2..
-Building library for witherable-0.4.2..
-[1 of 2] Compiling Witherable       ( src/Witherable.hs, dist/dist-sandbox-54b365cc/build/Witherable.o )
-[2 of 2] Compiling Data.Witherable  ( src/Data/Witherable.hs, dist/dist-sandbox-54b365cc/build/Data/Witherable.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/witherable-0.4.2-FTJsoTFWi6bKd5fGuW0R8
-cabal: Leaving directory '/tmp/cabal-tmp-2283/witherable-0.4.2'

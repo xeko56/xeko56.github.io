@@ -1,9 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-9792/call-stack-0.4.0'
-Configuring call-stack-0.4.0...
-Preprocessing library for call-stack-0.4.0..
-Building library for call-stack-0.4.0..
-[1 of 3] Compiling Data.SrcLoc      ( src/Data/SrcLoc.hs, dist/dist-sandbox-54b365cc/build/Data/SrcLoc.o )
-[2 of 3] Compiling Data.CallStack   ( src/Data/CallStack.hs, dist/dist-sandbox-54b365cc/build/Data/CallStack.o )
-[3 of 3] Compiling Paths_call_stack ( dist/dist-sandbox-54b365cc/build/autogen/Paths_call_stack.hs, dist/dist-sandbox-54b365cc/build/Paths_call_stack.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/call-stack-0.4.0-4B7yRh8mgB9GZzsNspyuNQ
-cabal: Leaving directory '/tmp/cabal-tmp-9792/call-stack-0.4.0'

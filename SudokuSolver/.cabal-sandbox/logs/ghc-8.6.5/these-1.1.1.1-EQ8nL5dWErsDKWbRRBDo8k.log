@@ -1,9 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-2284/these-1.1.1.1'
-Configuring these-1.1.1.1...
-Preprocessing library for these-1.1.1.1..
-Building library for these-1.1.1.1..
-[1 of 3] Compiling Data.Functor.These ( src/Data/Functor/These.hs, dist/dist-sandbox-54b365cc/build/Data/Functor/These.o )
-[2 of 3] Compiling Data.These       ( src/Data/These.hs, dist/dist-sandbox-54b365cc/build/Data/These.o )
-[3 of 3] Compiling Data.These.Combinators ( src/Data/These/Combinators.hs, dist/dist-sandbox-54b365cc/build/Data/These/Combinators.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/these-1.1.1.1-EQ8nL5dWErsDKWbRRBDo8k
-cabal: Leaving directory '/tmp/cabal-tmp-2284/these-1.1.1.1'

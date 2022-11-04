@@ -1,7 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-2287/type-equality-1'
-Configuring type-equality-1...
-Preprocessing library for type-equality-1..
-Building library for type-equality-1..
-[1 of 1] Compiling Data.Type.Equality.Hetero ( src-hetero/Data/Type/Equality/Hetero.hs, dist/dist-sandbox-54b365cc/build/Data/Type/Equality/Hetero.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/type-equality-1-5A9N6Ts8RtY5wkf4DqaBDT
-cabal: Leaving directory '/tmp/cabal-tmp-2287/type-equality-1'

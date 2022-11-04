@@ -1,7 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-2282/indexed-traversable-instances-0.1.1'
-Configuring indexed-traversable-instances-0.1.1...
-Preprocessing library for indexed-traversable-instances-0.1.1..
-Building library for indexed-traversable-instances-0.1.1..
-[1 of 1] Compiling Data.Functor.WithIndex.Instances ( src/Data/Functor/WithIndex/Instances.hs, dist/dist-sandbox-54b365cc/build/Data/Functor/WithIndex/Instances.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/indexed-traversable-instances-0.1.1-uCyJVgG0I58WGFJhUChUG
-cabal: Leaving directory '/tmp/cabal-tmp-2282/indexed-traversable-instances-0.1.1'

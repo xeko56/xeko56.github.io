@@ -1,7 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-2288/dec-0.0.4'
-Configuring dec-0.0.4...
-Preprocessing library for dec-0.0.4..
-Building library for dec-0.0.4..
-[1 of 1] Compiling Data.Type.Dec    ( src/Data/Type/Dec.hs, dist/dist-sandbox-54b365cc/build/Data/Type/Dec.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/dec-0.0.4-DJjVhjl2l8FAf23A5A9cLw
-cabal: Leaving directory '/tmp/cabal-tmp-2288/dec-0.0.4'

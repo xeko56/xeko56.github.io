@@ -1,8 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-2284/assoc-1.0.2'
-Configuring assoc-1.0.2...
-Preprocessing library for assoc-1.0.2..
-Building library for assoc-1.0.2..
-[1 of 2] Compiling Data.Bifunctor.Assoc ( src/Data/Bifunctor/Assoc.hs, dist/dist-sandbox-54b365cc/build/Data/Bifunctor/Assoc.o )
-[2 of 2] Compiling Data.Bifunctor.Swap ( src/Data/Bifunctor/Swap.hs, dist/dist-sandbox-54b365cc/build/Data/Bifunctor/Swap.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/assoc-1.0.2-D7MedFChUIVKUi69UXhFjR
-cabal: Leaving directory '/tmp/cabal-tmp-2284/assoc-1.0.2'

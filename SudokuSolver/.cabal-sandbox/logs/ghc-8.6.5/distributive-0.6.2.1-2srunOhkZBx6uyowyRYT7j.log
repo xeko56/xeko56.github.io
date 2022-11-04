@@ -1,8 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-2283/distributive-0.6.2.1'
-Configuring distributive-0.6.2.1...
-Preprocessing library for distributive-0.6.2.1..
-Building library for distributive-0.6.2.1..
-[1 of 2] Compiling Data.Distributive ( src/Data/Distributive.hs, dist/dist-sandbox-54b365cc/build/Data/Distributive.o )
-[2 of 2] Compiling Data.Distributive.Generic ( src/Data/Distributive/Generic.hs, dist/dist-sandbox-54b365cc/build/Data/Distributive/Generic.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/distributive-0.6.2.1-2srunOhkZBx6uyowyRYT7j
-cabal: Leaving directory '/tmp/cabal-tmp-2283/distributive-0.6.2.1'

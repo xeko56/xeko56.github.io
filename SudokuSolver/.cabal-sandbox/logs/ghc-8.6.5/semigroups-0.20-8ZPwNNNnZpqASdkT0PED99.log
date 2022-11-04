@@ -1,7 +1,0 @@
-cabal: Entering directory '/tmp/cabal-tmp-1280/semigroups-0.20'
-Configuring semigroups-0.20...
-Preprocessing library for semigroups-0.20..
-Building library for semigroups-0.20..
-[1 of 1] Compiling Data.Semigroup.Generic ( src/Data/Semigroup/Generic.hs, dist/dist-sandbox-54b365cc/build/Data/Semigroup/Generic.o )
-Installing library in /mnt/c/Users/n.nguyen/OneDrive/FP/Sudoku/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/semigroups-0.20-8ZPwNNNnZpqASdkT0PED99
-cabal: Leaving directory '/tmp/cabal-tmp-1280/semigroups-0.20'
