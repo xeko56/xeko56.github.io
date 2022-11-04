@@ -75,7 +75,7 @@ $(document).ready(function() {
                 clearAll();
 
                 $.ajax({
-                    url: "http://localhost:3000/save-score",
+                    url: "https://xeko56.github.io/save-score",
                     type: "POST",
                     data: { playerName: $('#playerName').val(), score: $('#score').val() },
                     dataType: 'json',
@@ -123,7 +123,7 @@ $(document).ready(function() {
     $('.highscoreboard').on('click', function() {
         console.log("click");
         $.ajax({
-            url: "http://localhost:3000/highscoreboard",
+            url: "https://xeko56.github.io/highscoreboard",
             type: "POST",
             data: "",
             dataType: 'json',
