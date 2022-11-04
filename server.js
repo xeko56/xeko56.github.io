@@ -1,15 +1,16 @@
 const express = require('express');
 const mariadb = require("mariadb/callback");
+require('dotenv').config()
 
 let app = express();
 const path = require('path');
 app.use(express.urlencoded({ extended: true }));
 
 let conn = mariadb.createConnection({
-    host: "mariadb1.local.cs.hs-rm.de",
-    database: "nnguy001",
-    user: "nnguy001",
-    password: "gosudubej0506##"
+    host: process.env.DB_HOST,
+    database: process.env.DB_DB,
+    user: process.env.DB_USER,
+    password: process.env.DB_PW
 });
 
 conn.connect(function(err) {
@@ -22,7 +23,7 @@ conn.connect(function(err) {
 
 app.get('/', function(req, res) {
     res.set('Content-Type', 'text/html');
-    res.sendFile(path.join(__dirname + '/mastermind.html'));
+    res.sendFile(path.join(__dirname + '/index.html'));
 });
 app.get('/mastermind.js', function(req, res) {
     res.sendFile(path.join(__dirname + '/mastermind.js'));
