@@ -7,7 +7,6 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://xeko56.github.io',
-  base: 'tested-transit',
   // Enable Vue to support Vue components.
   integrations: [vue()],
 
